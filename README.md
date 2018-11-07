@@ -1,1 +1,2 @@
-# rock_paper_scissors.py
+# Rock, Paper, Scissors!!!
+* beginner exercise/project for python
